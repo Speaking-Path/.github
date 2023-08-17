@@ -61,11 +61,11 @@ Web services to help people with speech impairment rehabilitation
 <br>
 
 ## 주요 기능 Main Function 🧰
-<img src = "./img/언어훈련.png"/>
-<img src = "./img/치료상담.png"/>
+![언어훈련](https://github.com/Speaking-Path/.github/assets/15648142/93daa806-815c-4ccd-9f7f-5c842a002ca7)
+![치료상담](https://github.com/Speaking-Path/.github/assets/15648142/9083eea6-41ee-4da2-a840-45dddb4e06b8)
 
 ### 언어재활 - 발음
-<img src = "./img/언어재활-발음.gif" style="width:50%"/>
+![언어재활-발음](https://github.com/Speaking-Path/.github/assets/15648142/858ebd76-e4db-46b6-9c1a-ed43208cf325)
 
 - 음절 / 단어 / 문장 말하기를 연습할 수 있다.
 - 아나운서가 발음하는 영상을 확인할 수 있다.
@@ -74,11 +74,11 @@ Web services to help people with speech impairment rehabilitation
 - AI Model : Powered by [OpenAI Whisper v.20230314](https://openai.com/research/whisper)
 
 ### 언어재활 - 인지
-<img src = "./img/사물고르기.gif" style="width:50%"/>
+![사물고르기](https://github.com/Speaking-Path/.github/assets/15648142/681c5f46-6800-4d98-bfb5-fc88c5bef548)
 
 - 문제가 제시되고, 해당하는 사물을 고르면 정답 유무를 알려준다.
 
-<img src = "./img/사물이름맞히기.gif" style="width:50%"/>
+![사물이름맞히기](https://github.com/Speaking-Path/.github/assets/15648142/fa4ed7c2-0a80-4b84-bbc8-a448325886f8)
 
 - 단어와 사진이 제시되면, 보기 중에서 선택하여 정답을 녹음한다.
 - 알맞게 발음하였는지 정답 유무를 확인할 수 있다.
@@ -87,31 +87,31 @@ Web services to help people with speech impairment rehabilitation
 
 
 ### 치료상담
-<img src = "./img/상담사상세검색.gif" style="width:50%"/>
+![상담사상세검색](https://github.com/Speaking-Path/.github/assets/15648142/a91adcc1-19c1-4b1e-848f-2640a5acd22e)
 
 - 전체 상담사 목록을 확인할 수 있습니다.
 - 조건 검색으로 세부 검색을 할 수 있습니다.
 
-<img src = "./img/상담사상담신청.gif" style="width:50%"/>
+![상담사상담신청](https://github.com/Speaking-Path/.github/assets/15648142/d9ee5923-efd2-4b91-9cef-2650224d84f3)
 
 - 원하는 상담사를 선택한 후 상담사가 상담 가능한 시간에 상담 예약 신청이 가능합니다.
 - 상담사 승인 상태를 마이페이지에서 확인할 수 있습니다.
 
-<img src = "./img/상담화면.gif" style="width:50%"/>
+![상담화면](https://github.com/Speaking-Path/.github/assets/15648142/d4375574-ba29-4f24-b1ed-c74f79849240)
 
 - 승인된 상담은 예약 시간 10분 전 상담방에 입장할 수 있습니다.
 - 상담사와 1:1 화상상담이 가능합니다.
 
 ### 회원
-<img src = "./img/회원가입.gif" style="width:50%"/>
+![회원가입](https://github.com/Speaking-Path/.github/assets/15648142/6ccbfe3f-f0fb-4ebd-8181-3ae16b4e3bed)
 
 - 이메일 인증을 통해 회원가입을 할 수 있습니다.
 
-<img src = "./img/네이버로그인.gif" style="width:50%"/>
+![네이버로그인](https://github.com/Speaking-Path/.github/assets/15648142/70ae7bc7-fbad-48d2-97ec-f786f95d8cb5)
 
 - 네이버 로그인을 통해 로그인을 할 수 있습니다.
 
-<img src = "https://github.com/Speaking-Path/.github/img/](https://github.com/Speaking-Path/.github/tree/main/profile/마이페이지.gif" style="width:50%"/>
+![마이페이지](https://github.com/Speaking-Path/.github/assets/15648142/09e38186-11bc-4f06-af75-97ee84187922)
 
 - 유저 정보를 업데이트 할 수 있습니다.
 - 예정된 상담 내역을 확인할 수 있습니다.
@@ -128,7 +128,7 @@ Web services to help people with speech impairment rehabilitation
 ## 주요 기술 Tech Stack 💡
 
 ### 시스템 아키텍쳐
-<img src="./img/SA.png"/>
+![SA](https://github.com/Speaking-Path/.github/assets/15648142/7ee49ab1-2590-4a00-bf28-558d7f45143d)
 
 ### Tool 
 ```
@@ -173,10 +173,10 @@ AI
 ```
 
 ### API
-<img src = "./img/api.png" />
+![api](https://github.com/Speaking-Path/.github/assets/15648142/550db14e-914e-40f0-aff4-bff568b6cc5e)
 
 ### ERD
-<img src = "./img/erd.png"/>
+![ERD](https://github.com/Speaking-Path/.github/assets/15648142/03a4d1b7-cb22-4c50-88a8-8c034ea48627)
 
 ### 가이드 🗞
 [프로젝트 매뉴얼(포팅매뉴얼)](./exec/말하길%20프로젝트%20매뉴얼.pdf)  
