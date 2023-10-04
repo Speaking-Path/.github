@@ -179,5 +179,5 @@ AI
 ![ERD](https://github.com/Speaking-Path/.github/assets/15648142/03a4d1b7-cb22-4c50-88a8-8c034ea48627)
 
 ### 가이드 🗞
-[프로젝트 매뉴얼(포팅매뉴얼)](./exec/말하길%20프로젝트%20매뉴얼.pdf)  
-[DumpSQL](./exec/dump.sql)  
+[프로젝트 매뉴얼(포팅매뉴얼)](https://github.com/Speaking-Path/SpeakingPath/blob/master/exec/%EB%A7%90%ED%95%98%EA%B8%B8%20%ED%94%84%EB%A1%9C%EC%A0%9D%ED%8A%B8%20%EB%A7%A4%EB%89%B4%EC%96%BC.pdf)  
+[DumpSQL](https://github.com/Speaking-Path/SpeakingPath/blob/master/exec/dump.sql)  
